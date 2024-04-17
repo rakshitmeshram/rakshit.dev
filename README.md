@@ -1,4 +1,4 @@
-Hi, Im Deniz. Welcome to my personal portfolio project. This project was created to showcases my skills, projects, and experience as a developer. It was also an opportunity for me to learn more about Next.js 14 App router and MDX. Please visit [rakshitmeshram.com](https://rakshitmeshram.com/) to view the project live and/or contact me.
+Hi, Im Rakshit. Welcome to my personal portfolio project. This project was created to showcases my skills, projects, and experience as a developer. It was also an opportunity for me to learn more about Next.js 14 App router and MDX. Please visit [rakshitmeshram.com](https://rakshitmeshram.com/) to view the project live and/or contact me.
 
 ## Table of Contents
 
